@@ -1,1 +1,1 @@
-I will note something soon.
+a repository which contains the project file on which I have worked in my part time for getting some technical experience and out of curiosity and will be planning to use it for the future use by developing it in a way that it will be much more efficient and useful.
